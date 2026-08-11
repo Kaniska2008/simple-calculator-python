@@ -1,7 +1,7 @@
 SIMPLE CALCULATOR USING PYTHON
 
 Project Title:
-Simple Calculator Using Python
+Simple Calculator Using Python.
 
 Programming Language:
 Python 3.13
